@@ -7,6 +7,7 @@ Business Analyst
 I am a dedicated Business Analyst with a passion for transforming raw data into actionable insights that drive business growth and solve complex problems. With a Master's degree in Business Analytics and a background in Applied Computer Science, I excel at leveraging data to inform strategic decisions. My expertise lies in creating intuitive visualizations that effectively communicate insights to stakeholders. Whether it's through interactive dashboards or compelling presentations, I strive to make data accessible and impactful. I have a proven track record of working closely with stakeholders to understand their needs and deliver solutions that exceed expectations. My leadership skills have been honed through roles such as Head Teaching Assistant and Vice-President of the INFORMS UIOWA Chapter, Graduate and Professional Student Government: International Affairs Director, where I organized events and presented to diverse audiences. I am driven by the opportunity to use data to make a meaningful impact. I am eager to bring my skills in data analysis, visualization, and stakeholder engagement to a dynamic team focused on driving innovation and growth.
 
 * 🌍  I'm based in Iowa City
+* 🖥️  See my portfolio at [My Portfolio](http://raghav147.github.io/)
 * ✉️  You can contact me at [raghavpsharma@gmail.com](mailto:raghavpsharma@gmail.com)
 * 🧠  I'm learning Implementing Finance Models using Python
 * 🤝  I'm open to collaborating on Projects
