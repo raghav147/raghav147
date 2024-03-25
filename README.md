@@ -11,7 +11,7 @@ I am a dedicated Business Analyst with a passion for transforming raw data into 
 * ✉️  You can contact me at [raghavpsharma@gmail.com](mailto:raghavpsharma@gmail.com)
 * 🧠  I'm learning Implementing Finance Models using Python
 * 🤝  I'm open to collaborating on Projects
-* ⚡  I am a huge Arsenal fan. I love to get involved and take leadership roles.
+* ⚡  I am a huge Arsenal fan. I love to get involved and take leadership roles. I'm passionate about music and enjoy playing guitar, Cajón, and composing songs in my free time!
 
 ### Skills
 
